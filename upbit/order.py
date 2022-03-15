@@ -39,4 +39,4 @@ res = requests.post(server_url, params=query, headers=headers)
 data = res.json()
 print(data)
 
-# github 연습입니다.
+# github 연습입니다. git commit -m "second commit"
